@@ -1,0 +1,18 @@
+.flexcontainer {
+    display: flex;
+    margin:10px 400px;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-weight: 70px;
+}
+
+.flexcontainer div {
+    box-sizing: border-box;
+    background-color: peachpuff;
+    height: 200px;
+    width: 800px;
+    border: 10px solid brown;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
